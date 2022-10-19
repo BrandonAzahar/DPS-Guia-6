@@ -1,3 +1,3 @@
-# Sample Snack app
+# Guia 6
 
 Guia 6
